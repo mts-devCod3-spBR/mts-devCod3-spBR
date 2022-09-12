@@ -1,4 +1,4 @@
-## Eai! Eu sou Matheus e sejam todos muito bem-vindos ao meu perfil :)
+## Olá! Eu sou Matheus e sejam bem-vindos ao meu perfil :)
 - Estudante do 4º Semestre de Sistemas de Informação
 - Conehcimentos em C.
 - Conhecimentos em Java.
